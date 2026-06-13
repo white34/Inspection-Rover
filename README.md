@@ -60,7 +60,7 @@ inspection configurations.
 **Structure**
 - Aluminium chassis plate, 4mm 6061-T6, laser cut
 - 2020 aluminium extrusion upper sensor rack
-- IP67 ABS electronics enclosure, ~245x95x85mm internal
+- IP67 ABS electronics enclosure, ~251x126x85mm internal
 - GX12 6-pin aviation connectors (tool-free electrical disconnect)
 - M5 cam levers + dowel pins (tool-free mechanical modularity)
 - 2x Jamicon 40mm 12V fans, cross-flow ventilation
